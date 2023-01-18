@@ -1,4 +1,4 @@
-This code is an example of how we load 3D models to a website app using `Three.js` and `Next.js`.
+This code is an example of how we embed 3D models on our website app using `Three.js` and `Next.js`.
 
 Here, I use [Littlest Tokyo](https://www.artstation.com/artwork/1AGwX) model by [Glen Fox](https://www.artstation.com/glenatron).  I load the model by using the [example code](https://github.com/mrdoob/three.js/blob/master/examples/webgl_animation_keyframes.html) on `Three.js` site. GLModel and Draco decoder are placed in `public` folder.
 
